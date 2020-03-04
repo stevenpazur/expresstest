@@ -1,0 +1,19 @@
+{
+  "name": "sfc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.0.12",
+    "body-parser": "^1.19.0",
+    "express": "file:node_modules/express",
+    "package.json": "^2.0.1",
+    "stack": "^0.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
